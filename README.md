@@ -1,2 +1,2 @@
 # Christmas Lights
- CSS-animation
+ CSS-animation. https://josiehpersson.github.io/Christmas-Lights/.
